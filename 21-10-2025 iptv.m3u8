@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-type="Kids" group-title="Kids" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
-https://playyonogames.in/live.php?id=545&format=.m3u8
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1034.m3u8
 
 #EXTINF:-1 tvg-id="Oggy &Cockroaches" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Oggy_and_the_Cockroaches_Logo.webp/600px-Oggy_and_the_Cockroaches_Logo.webp.png" group-title="Kids",Oggy &Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/index.m3u8
@@ -195,5 +195,63 @@ http://116.90.120.149:8000/play/a0bv/index.m3u8
 http://116.90.120.149:8000/play/a0b9/index.m3u8
 
 
+#EXTINF:-1 tvg-id="Colors.in@SD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment" http-referrer="https://playyonogames.in/",Colors (1080p)
+#EXTVLCOPT:http-referrer=https://playyonogames.in/
+#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+https://playyonogames.in/live.php?extension=.m3u8&id=144
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon_Network_Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids",Cartoon_Network_Hindi
+http://servertvhub.site/jio/app/live.php?id=816
+
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo_Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids",Pogo_Hindi
+http://servertvhub.site/jio/app/live.php?id=559
+
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery_Kids_2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids",Discovery_Kids_2
+http://servertvhub.site/jio/app/live.php?id=554
+
+#EXTINF:-1 tvg-id="545" tvg-name="Nick_Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids",Nick_Hindi
+http://servertvhub.site/jio/app/live.php?id=545
+
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors_Cineplex_Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies",Colors_Cineplex_Bollywood
+http://servertvhub.site/jio/app/live.php?id=1763
+
+#EXTINF:-1 tvg-id="1477" tvg-name="Color_Cineplex_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies",Color_Cineplex_HD
+http://servertvhub.site/jio/app/live.php?id=1477
+
+#EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment",Rishtey
+http://servertvhub.site/jio/app/live.php?id=279
+
+#EXTINF:-1 tvg-id="144" tvg-name="Colors_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors_HD
+http://servertvhub.site/jio/app/live.php?id=144
+
+#EXTINF:-1 tvg-id="1368" tvg-name="Colors_SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment",Colors_SD
+http://servertvhub.site/jio/app/live.php?id=1368
+
+#EXTINF:-1 tvg-id="566" tvg-name="Animal_Planet_Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment",Animal_Planet_Hindi
+http://servertvhub.site/jio/app/live.php?id=566
+
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery_Channel_Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment",Discovery_Channel_Hindi
+http://servertvhub.site/jio/app/live.php?id=575
+
+#EXTINF:-1 tvg-id="1998" tvg-name="Sports18_Khel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",Sports18_Khel
+http://servertvhub.site/jio/app/live.php?id=1998
+
+#EXTINF:-1 tvg-id="1985" tvg-name="Sports18_1_SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports",Sports18_1_SD
+http://servertvhub.site/jio/app/live.php?id=1985
+
+#EXTINF:-1 tvg-id="1984" tvg-name="Sports18_1_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports18_1_HD
+http://servertvhub.site/jio/app/live.php?id=1984
+
+#EXTINF:-1 tvg-id="204" tvg-name="DD_Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Sports",DD_Sports
+http://servertvhub.site/jio/app/live.php?id=204
+
+#EXTINF:-1 tvg-id="571" tvg-name="TLC_Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Lifestyle",TLC_Hindi
+http://servertvhub.site/jio/app/live.php?id=571
+
+#EXTINF:-1 tvg-id="1477" tvg-name="Color_Cineplex_HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies",Color_Cineplex_HD
+http://servertvhub.site/jio/app/live.php?id=1477
 
 
