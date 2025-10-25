@@ -475,3 +475,9 @@ https://d7.merichunidya.com:1686/hls/ten1hd.m3u8?md5=MRHj0EebmfV4o4EVPWQqzg&expi
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d7.merichunidya.com:1686/hls/star1in.m3u8?md5=t50jJlUzlFbJEmqwBIs3Sg&expires=1761398048
+
+#EXTINF:-1 tvg-id="0b0235db-e5b4-48d9-95bc-30a7e3228947" tvg-name="Sony TV HD" tvg-logo="https://s3.aynaott.com/storage/2d12bf4f5dad8918427df0162d0e1184" group-title="Entertainment",Sony TV HD
+https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1761399059&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=3bf608538566b4bd9e7fd256122b96e0
+
+#EXTINF:-1 tvg-id="b04b3742-e2a1-4d56-8b3e-2b2154766ada" tvg-name="Sony TEN 1 HD" tvg-logo="https://s3.aynaott.com/storage/57e101ec8c0eb35cfd0017b783dde3b1" group-title="Sports",Sony TEN 1 HD
+https://tvsen5.aynascope.net/snTn1HD/index.m3u8?e=1761398934&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=798671b915a8243ecd51c9e09eac7dbd
